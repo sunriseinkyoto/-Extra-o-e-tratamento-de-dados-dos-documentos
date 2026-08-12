@@ -35,7 +35,6 @@ caminho_pdf = r"C:\caminho\para\seu\documento.pdf"
 
 2. Executar o Script
 Para iniciar a extração e fragmentação de dados, execute o seguinte comando no terminal:
-
 python main.py
 
 3. Resultados
