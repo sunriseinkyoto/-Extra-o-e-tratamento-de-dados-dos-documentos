@@ -42,19 +42,3 @@ O código vai gerar saídas com:
 
 Texto fragmentado: em trechos de 1000 caracteres.
 Metadados: para cada trecho, incluindo informações de posição.
-Configurações Adicionais
-O script foi configurado para fragmentar o texto em trechos de 1000 caracteres. Se desejar alterar o tamanho, modifique o valor no código:
-
-python
-Copiar código
-tamanho_fragmento = 1000  # Número de caracteres por fragmento
-Problemas Comuns
-Erro "FileNotFoundError": Certifique-se de que o caminho do PDF está correto e que o arquivo existe.
-Erro "ModuleNotFoundError" para faiss: Tente instalar a versão pré-compilada do FAISS (faiss-windows) se o erro persistir no Windows.
-
-
-
-
-
-
-
