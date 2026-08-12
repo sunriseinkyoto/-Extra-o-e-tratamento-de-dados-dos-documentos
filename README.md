@@ -53,8 +53,6 @@ Problemas Comuns
 Erro "FileNotFoundError": Certifique-se de que o caminho do PDF está correto e que o arquivo existe.
 Erro "ModuleNotFoundError" para faiss: Tente instalar a versão pré-compilada do FAISS (faiss-windows) se o erro persistir no Windows.
 
-Contribuição
-Sinta-se à vontade para abrir issues e pull requests para sugestões e melhorias.
 
 
 
